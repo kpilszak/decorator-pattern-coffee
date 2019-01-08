@@ -1,4 +1,3 @@
-# decorator-pattern-coffee
 <h1 align="right">Decorator Pattern Coffee</h1><br>
 
 ## Table of contents
