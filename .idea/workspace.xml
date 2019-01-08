@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6cb8ac8-7aef-46fc-a553-74327ddc7749" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6cb8ac8-7aef-46fc-a553-74327ddc7749" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StarbuzzCoffee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -26,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Beverage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -35,6 +33,15 @@
                 <element signature="e#112#113#0" expanded="true" />
                 <element signature="e#133#134#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CondimentDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -56,6 +63,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/StarbuzzCoffee.java" />
         <option value="$PROJECT_DIR$/src/Beverage.java" />
+        <option value="$PROJECT_DIR$/src/CondimentDecorator.java" />
       </list>
     </option>
   </component>
@@ -96,7 +104,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546949346462" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546949640164" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -138,12 +146,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546948312953</updated>
       <workItem from="1546948315173" duration="2000" />
-      <workItem from="1546948349099" duration="990000" />
+      <workItem from="1546948349099" duration="1272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="992000" />
+    <option name="totallyTimeSpent" value="1274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1219" height="735" extended-state="6" />
@@ -184,17 +192,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/StarbuzzCoffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <element signature="e#73#74#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Beverage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -202,6 +199,24 @@
           <folding>
             <element signature="e#112#113#0" expanded="true" />
             <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StarbuzzCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
           </folding>
         </state>
       </provider>
